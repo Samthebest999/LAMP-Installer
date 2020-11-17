@@ -14,5 +14,8 @@ then
     sudo apt update && sudo apt full-upgrade
     sudo apt install apache2 mysql php -y
     install-pkg apache2 mysql php
+    echo "Done!"
+else
+    echo "Ok BYE!!"
+
 fi
-echo "Done!!"
