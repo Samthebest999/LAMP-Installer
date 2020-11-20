@@ -17,5 +17,6 @@ then
     echo "Done!"
 else
     echo "Ok BYE!!"
-
+    sleep 5
+    exit
 fi
