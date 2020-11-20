@@ -16,7 +16,7 @@ then
     install-pkg apache2 mysql php
     echo "Done!"
 else
-    echo "Ok BYE!!"
-    sleep 5
+    echo "Ok BYE!!, The installer will close in about 10 second..."
+    sleep 11
     exit
 fi
